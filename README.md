@@ -5,7 +5,7 @@
 **Craftly** is a web solution designed to enable users to easily create personalized and professional websites without the need of coding expertise. Using **ReactJS** for the frontend and
 **NodeJS** for the backend, the platform provides a cohesive environment that simplifies the process of website creation, editing, and management. It offers tailored design recommendations for both individuals and businesses. Focusing on enhancing user experience, innovation, and flexibility, the platform ensures a smooth and enjoyable experience through every step of the design journey.
 
-This text to website generator has been developed as part of Kriti Problem Statement for Product Development.
+This text-to-website generator was developed by students of Barak Hostel, IIT Guwahati, as part of the Kriti Product Development Problem Statement.
 
 ---
 
